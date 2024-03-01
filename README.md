@@ -1,3 +1,3 @@
 ScreenShoot of Simple Calculator made Using Java Swing
 
-![Screenshot (290)](https://github.com/SubediBinod/JavaSwingSimpleCalculator/assets/105643264/8397f179-5861-4200-99fd-2abf5ac6961e)
+![calci](https://github.com/SubediBinod/JavaSwingSimpleCalculator/assets/105643264/607401a2-5372-4c8d-a97c-e78dbc7c73dd)
